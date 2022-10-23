@@ -1,3 +1,3 @@
 # foundations3
 
-This is foundations3 practice.
+This is practice for css foundations 3.
